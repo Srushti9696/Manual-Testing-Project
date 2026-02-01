@@ -1,6 +1,3 @@
-# Manual-Testing-Project
-This repository contains my manual testing projects: functional testing, regression testing, test case design, and bug reporting.
-
 # Manual Testing Project
 
 ## Project Overview
@@ -26,4 +23,3 @@ This repository contains my manual testing work for web applications.
 - Designed test cases
 - Executed test cases
 - Reported bugs
-
